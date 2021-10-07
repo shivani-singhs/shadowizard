@@ -4,12 +4,12 @@ Get perfect shadows every time for the non-designer
 
 # installation
 
-`npm i shadowizard --save`
+`npm i shadowizardyshivani --save`
 
 Then...
 
 ```
-import { shadowizard } from 'shadowizard';
+import { shadowizard } from 'shadowizardyshivani';
 
 shadowizard({
     shadow_type: 'soft',
