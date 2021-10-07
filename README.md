@@ -4,7 +4,7 @@ Get perfect shadows every time for the non-designer
 
 # installation
 
-`npm i shadowizard --save`
+`npm i shadowizardyshivani --save`
 
 Then...
 
