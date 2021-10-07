@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/shivani-singhs/shadowizard/issues"
   },
-  "homepage": "https://github.com/shivani-singhs/shadowizard#readme"
+  "homepage": "https://github.com/shivani-singhs/shadowizard#readme",
+  "dependencies": {}
 }
